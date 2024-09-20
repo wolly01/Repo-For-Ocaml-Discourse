@@ -1,4 +1,4 @@
 (executable
-(name test_ml)
- (modes js)
- )
+  (name test_ml)
+  (modes js)
+  (libraries js_of_ocaml))
